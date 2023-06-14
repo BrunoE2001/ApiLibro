@@ -1,0 +1,9 @@
+query CharactersList{
+    books {
+        title
+        author
+        precio
+        descripcion
+        imagen
+    }
+}
